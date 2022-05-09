@@ -16,6 +16,8 @@ body{
 .container .page{
   width: 90vw;
   height: 90vh;
+  background-image: url("../images/wave.svg");
+  background-repeat: no-repeat;
   background-color: white;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5)
 }
