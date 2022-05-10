@@ -20,8 +20,8 @@ body{
 }
 
 .container .page{
-  width: 90vw;
-  height: 90vh;
+  width: 95vw;
+  height: 98vh;
   background-image: url("../images/wave.svg");
   background-repeat: no-repeat;
   background-size: 200%;
@@ -46,9 +46,9 @@ body{
 
 .container .page .myImage{
   position: absolute;
-  top: 35px;
+  top: 5%;
   right: 5px;
-  width: 150px;
-  height: 150px;
+  width: 155px;
+  height: 155px;
   border-radius: 50%;
 }
