@@ -5,3 +5,6 @@ This project is me attempting to create my resume using HTML, CSS, JavaScript an
 <br/>
 
 In this project I will make my resume downloadable and I'll link in my Portfolio rebuild v2.0.
+
+## Progress
+![Screenshot](./images/Screenshot.png)
