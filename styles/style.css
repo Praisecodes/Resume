@@ -1,6 +1,6 @@
 @font-face{
   font-family: "Poppins";
-  src: url("..Assets/poppins_medium.ttf");
+  src: url("../Assests/Poppins-Regular.ttf");
 }
 
 body{
@@ -32,17 +32,23 @@ body{
 
 .container .page .contact-details{
   position: absolute;
-  top: 3px;
-  left: 2px;
+  top: 10px;
+  left: 5px;
   color: white;
-  width: 250px;
+  font-size: 13px;
+  font-family: "Poppins";
+  padding: 5px;
+}
+
+.container .page .contact-details i{
+  margin-right: 5px;
 }
 
 .container .page .myImage{
   position: absolute;
-  top: 20px;
-  right: 10px;
-  width: 230px;
-  height: 230px;
+  top: 35px;
+  right: 5px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
 }
